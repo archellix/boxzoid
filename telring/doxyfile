@@ -1,0 +1,8 @@
+PROJECT_NAME = TelRing
+PROJECT_BRIEF = "TelRing is the Swiss knife of networking tools."
+OUTPUT_DIRECTORY = _out/docs
+INPUT = src include
+FILE_PATTERNS = *.c *.h
+RECURSIVE = yes
+OPTIMIZE_OUTPUT_FOR_C = yes
+QUIET = yes

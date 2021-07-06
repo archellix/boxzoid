@@ -1,0 +1,8 @@
+*.o
+*.out
+_out
+bin
+Testing
+.DS_Store
+*.swp
+*.swo
